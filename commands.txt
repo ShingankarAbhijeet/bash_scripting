@@ -1,0 +1,10 @@
+yum 
+systemctl
+systemctl
+mkdir 
+wget 
+unzip
+cp 
+systemctl 
+ls 
+systemctl 
