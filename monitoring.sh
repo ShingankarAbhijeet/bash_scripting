@@ -9,7 +9,7 @@ then
 else
  echo " Apache httpd is stopped"
  echo " starting httpd"
-systemctl start httpd
+#systemctl start httpd
   if [ $? -eq 0 ]
   then 
     echo " process started successfully."
